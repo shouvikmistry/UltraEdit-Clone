@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
 }
+
+/* ----Navbar---- */
 .logo{
     margin-left: 130px;
 }
@@ -37,4 +39,35 @@ nav{
 }
 .right ul li span{
     padding: 0 5px;
+}
+
+/* -----Main----- */
+.hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin: 90px;
+    font-family: sans-serif;
+}
+.hero span{
+    font-size: 40px;
+}
+section span img{
+    padding: 0px 20px;
+}
+section p{
+    font-size: 25px;
+    width: 76vw;
+    text-align: center;
+}
+section button{
+    background: #00b6d1;
+    padding: 15px 22px;
+    color: white;
+    border-radius: 7px;
+    border-style: none;
+    font-size: 16px;
+    font-weight: 900;
 }
