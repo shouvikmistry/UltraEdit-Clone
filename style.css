@@ -74,16 +74,58 @@ section span img{
     font-size: 16px;
     font-weight: 700;
 }
+.second{
+    margin: auto;
+    max-width: 70vw;
+    /* background-color: aquamarine; */
+}
 .download{
     display: flex;
-    justify-content: flex-start;
+    /* flex-direction: column; */
+    /* justify-content: center; */
     align-items: center;
     font-family: sans-serif;
-    padding-left: 14vw;
+    /* padding-left: 14vw; */
+    gap: 10px;
+    margin: 20px 0;
 }
-.download span{
-    padding: 0 7px;
+.item{
+    /* background-color: rgb(180, 180, 174); */
+    text-align: center;
+    width: 23vw;
+    height: 24vh;
+    border-radius: 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.download img{
-    padding: 0 10px;
+.item-lang{
+    padding-top: 25px;
+    padding-bottom: 40px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.blue{
+    background-color: #00b6d1;
+}
+.green{
+    background-color: #5cb85c;
+}
+.btn{
+    color: white;
+    padding: 11px 15px;
+    border-radius: 7px;
+    border-style: none;
+    font-size: 12px;
+    font-weight: 700;
+    margin: 0 1px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 4px;
+}
+.btn-alng{
+    /* background-color: #b86e5c; */
+    display: flex;
+    gap: 4px;
+    justify-content: center;
 }
