@@ -61,18 +61,18 @@ nav{
 section span img{
     padding: 0px 20px;
 }
-section p{
+.hero p{
     width: 70vw;
     text-align: center;
 }
-section button{
+.hero button{
     background: #00b6d1;
     padding: 15px 22px;
     color: white;
     border-radius: 7px;
     border-style: none;
     font-size: 16px;
-    font-weight: 900;
+    font-weight: 700;
 }
 .download{
     display: flex;
