@@ -8,9 +8,6 @@ A responsive **UltraEdit Website UI Clone** built with pure **HTML** and **CSS**
 📸 **Screenshot:**  
 Below is a screenshot of the UI for reference:  
 ![UltraEdit Clone Screenshot](./screenshot/screenshot1.png)
-![UltraEdit Clone Screenshot](./screenshot/screenshot2.png)
-![UltraEdit Clone Screenshot](./screenshot/screenshot3.png)
-![UltraEdit Clone Screenshot](./screenshot/screenshot4.png)
 
 📂 **Well-Organized Structure:**  
 The project is structured with clear and easy-to-navigate sections, making it simple to understand and extend.
